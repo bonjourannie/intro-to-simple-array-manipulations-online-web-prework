@@ -56,3 +56,5 @@ def using_flatten(private_colleges_in_newyork)
  def using_delete(instructors, name)
   no_offense_steven = instructors.delete("Steven")
 end
+
+def using_delete_at(famout_robots)
