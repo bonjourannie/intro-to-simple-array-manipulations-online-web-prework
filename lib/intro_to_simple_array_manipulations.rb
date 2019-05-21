@@ -58,5 +58,5 @@ def using_flatten(private_colleges_in_newyork)
 end
 
 def using_delete_at(famous_robots, integer)
-  deleted_robot = famous_robots.delete(2)
+  deleted_robot = famous_robots.delete_at(2)
 end
